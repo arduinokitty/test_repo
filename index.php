@@ -1,5 +1,8 @@
 
   <?php
+
+echo("Hello World");
+
   $servername = "localhost";
   $username = 'php_admin';
   $password = 'MyAdminPass';
